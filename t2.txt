@@ -1,0 +1,2 @@
+L2/L2d Choice	L3/dauer Choice	Time	Population	Dauers
+10.0	10.0	144.0	89701	1
